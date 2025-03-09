@@ -1,0 +1,5 @@
+# Ignore private and unnecessary files
+.env
+.ipynb_checkpoints/
+.vscode/
+billsum-t5-tokenized/
